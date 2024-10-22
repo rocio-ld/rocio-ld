@@ -12,7 +12,7 @@ Soy una mujer desarrolladora orientada a los detalles y a que el usuario tenga u
 **Aplicación para realizar búsquedas de películas anime alimentada de API **  
 _Javascript, HTML5 y CSS_  
 Una aplicación web para gestionar la búsqueda de películas Anime alimentada de API, dónde además de realizar la búsqueda puedes seleccionar tu favorita y eliminarla de la lista de favoritos y la info se queda guardada en el local Storage.  
-Repositorio en GitHub: [github.com/juanperez/tareas-app](https://github.com/juanperez/tareas-app)
+Repositorio en GitHub: [github.com/rocio-ld/PaginaWeb-Anime-rocio-ld]([https://github.com/rocio-ld/PaginaWeb-Anime-rocio-ld)])
 
 
 Here are some ideas to get you started:
